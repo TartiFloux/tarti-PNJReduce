@@ -15,6 +15,9 @@
 ⚙️ Commande "/debugZone" pour visualiser les zones de traffic configurer.
 
 
+-----------------------
+
+
 🚦 PNJReduce - script that allows you to control and customize NPC traffic.
 
 ✨ Features:
