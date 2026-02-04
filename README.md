@@ -1,6 +1,6 @@
 # PNJReduce
 
-🚦 PNJReduce FiveM
+🚦 PNJReduce -
 PNJReduce est un script FiveM permettant de contrôler et personnaliser le trafic PNJ. 
 
 ✨ Fonctionnalités :
