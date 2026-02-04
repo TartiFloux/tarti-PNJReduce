@@ -1,7 +1,7 @@
--- Etat debug
+-- Etat debug :
 debugZones = false
 
--- Exemple de zones
+-- Zones :
 local Zones = {
     {
         name = "Centre-ville",
@@ -64,7 +64,7 @@ local DefaultDensity = {
     scenarioPed = 0.0
 }
 
--- Thread densité PNJ/voiture
+-- Thread densitÃ© PNJ/voiture
 CreateThread(function()
     while true do
         Wait(0)
