@@ -1,7 +1,6 @@
 # PNJReduce
 
-🚦 PNJReduce -
-PNJReduce est un script FiveM permettant de contrôler et personnaliser le trafic PNJ. 
+🚦 PNJReduce - script FiveM permettant de contrôler et personnaliser le trafic PNJ. 
 
 ✨ Fonctionnalités :
 
@@ -15,3 +14,19 @@ PNJReduce est un script FiveM permettant de contrôler et personnaliser le trafi
 
 ⚙️ Commande "/debugZone" pour visualiser les zones de traffic configurer.
 
+
+🚦 PNJReduce - script that allows you to control and customize NPC traffic.
+
+✨ Features:
+
+📍 Traffic management by zone (neighborhoods, cities, specific roads) or across the entire map.
+
+🚗 Independent adjustment of NPC vehicle density.
+
+🚶🏻 Adjustment of NPC pedestrian density and various events.
+
+🔧 Simple and flexible configuration.
+
+⚙️ “/debugZone” command to view configured traffic zones.
+
+Translated with DeepL.com (free version)
