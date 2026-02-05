@@ -1,4 +1,4 @@
-# PNJReduce
+# tarti-PNJReduce
 
 🚦 PNJReduce - script FiveM permettant de contrôler et personnaliser le trafic PNJ. 
 
